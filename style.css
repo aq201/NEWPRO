@@ -1,0 +1,64 @@
+/* body{
+    background-color: #505dc7;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#505dc7;
+}
+.TECHNOWORLD{
+    margin-left: 10px;
+    position: relative;
+    top: 10px;
+    color:  black ;
+    box-shadow: none;
+    font-family: 'Domine', serif;
+    
+    font-size: 25px;
+}
+.TECHNOWORLD:hover{
+    color: wheat;
+    
+    
+
+}
+#smile{
+    width: 2%;
+    height: 2%;
+    position: relative;
+    top: 6px;
+    left: 10PX;
+}
+#search{
+    width: 300px;
+    margin-left: 1000px;
+    position: absolute;
+    top: 20px;
+} */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#budgetDisplay {
+    margin-bottom: 20px;
+}
+
+#expenseInput input {
+    margin-bottom: 10px;
+}
+
+#expenseList {
+    margin-top: 20px;
+}
+
+.expense-item {
+    margin-bottom: 5px;
+    padding: 5px;
+    background-color: #f1f1f1;
+}
